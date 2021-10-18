@@ -1,4 +1,4 @@
-# mongo değil local haberiniz olsun her zamanki gibi bir ilki paylaşıcam stara basın bebeler
+# Sunucu Yedekleme Botumu Paylaşıyorum.
+![Adsız](https://cdn.discordapp.com/attachments/899588562150903830/899660883599450132/unknown.png)
 
-
-SSD İM YANDI O YÜZDEN HER BOK GİTTİ YENİDEN YAZIYORUM
+ Star basın arkadaşlar 18.10.2021 20.00 'da paylaşılacaktır.
