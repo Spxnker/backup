@@ -1,11 +1,15 @@
 {
   "name": "backups-bot",
   "version": "1.0.0",
-  "main": "spank-me.js",
+  "main": "spanker.js",
   "author": "Spanker",
   "license": "MIT",
   "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
     "discord-backup": "^2.3.0",
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.6.1"
   }
 }
